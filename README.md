@@ -1,4 +1,4 @@
-### Salve 👍
+### Wie geht es dir?
 Atualmente atuando como estagiário na Servix, faço parte do time de Suporte.
 Cada dia aprendendo mais sobre os produtos e plataformas utilizadas pela empresa à serviço de nossos clientes e colaboradores.
 
