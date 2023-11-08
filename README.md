@@ -2,7 +2,7 @@
 Atualmente atuando como estagiário na Servix, faço parte do time de Suporte.
 Cada dia aprendendo mais sobre os produtos e plataformas utilizadas pela empresa à serviço de nossos clientes e colaboradores.
 
-Aluno SENAC, cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas. \
+Aluno SENAC, cursando o quarto semestre em Análise e Desenvolvimento de Sistemas. \
 Tendo como foco, a linguagem Java.
 <!--
 **RafaelEtec/RafaelETEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
