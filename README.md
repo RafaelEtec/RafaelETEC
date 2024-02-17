@@ -7,8 +7,12 @@ Tendo como foco, a linguagem Java.
 
 Estudando por fora, conceitos da segurança de redes, e web. \
 Utilizo de VMs (Máquinas Virtuais) Kali Linux, LABs e ambientes preparados para sofrer um ataque de penetração. \
+Estudo, Analizo e Recrio scripts feitos em Python para compreender melhor o funcionamento dos processos da rede e web. \
 Todo e qualquer ataque é feito seguindo a LGPD e com autorização da plataforma. \
 
 Referências: \
-OWASP - [Juice Shop](https://owasp.org/www-project-juice-shop/) \
-SOLYD - [Banco CN](http://www.bancocn.com/)
+[OWASP - Juice Shop](https://owasp.org/www-project-juice-shop/) \
+[SOLYD](https://solyd.com.br/) \
+[SOLYD - Banco CN](http://www.bancocn.com/) \
+[HACK THE BOX](https://www.hackthebox.com/) \
+[APISEC University](https://www.apisecuniversity.com/)
