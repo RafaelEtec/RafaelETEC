@@ -9,6 +9,6 @@ Estudando por fora, conceitos da segurança de redes, e web. \
 Utilizo de VMs (Máquinas Virtuais) Kali Linux, LABs e ambientes preparados para sofrer um ataque de penetração. \
 Todo e qualquer ataque é feito seguindo a LGPD e com autorização da plataforma. \
 
-Ex: \
+Referências: \
 OWASP - [Juice Shop](https://owasp.org/www-project-juice-shop/) \
 SOLYD - [Banco CN](http://www.bancocn.com/)
