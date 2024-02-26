@@ -8,7 +8,7 @@ Tendo como foco, a linguagem Java.
 Estudando por fora, conceitos da segurança de redes, e web. \
 Utilizo de VMs (Máquinas Virtuais) Kali Linux, LABs e ambientes preparados para sofrer um ataque de penetração. \
 Estudo, Analizo e Recrio scripts feitos em Python para compreender melhor o funcionamento dos processos da rede e web. \
-Todo e qualquer ataque é feito com autorização da plataforma. \
+Todo e qualquer ataque é feito com autorização da plataforma. 
 
 Referências: \
 [OWASP - Juice Shop](https://owasp.org/www-project-juice-shop/) \
