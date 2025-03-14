@@ -36,3 +36,19 @@
 <h3>DevOps</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker&theme=light)](https://skillicons.dev)
+
+<h3>Back End as a Service (BaaS)</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=appwrite,netlify&theme=light)](https://skillicons.dev)
+
+<h3>Testing</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
+
+<h3>Software</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=postman,figma,vscode,webstorm&theme=light)](https://skillicons.dev)
+
+<h3>Other</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,git&theme=light)](https://skillicons.dev)
