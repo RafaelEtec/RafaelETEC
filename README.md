@@ -2,7 +2,7 @@
 <h3 align="center">Turning ideas into reality, one bug at a time</h3>
 <br>
 
-- 👨‍💻 My portfolio [https://rafaeletec.github.io/web-portfolio/](https://rafaeletec.github.io/web-portfolio/)
+- 👨‍💻 My portfolio [https://rafaelgoulart.netlify.app/](https://rafaelgoulart.netlify.app/)
 
 - 📫 How to reach me **rafaelxms@hotmail.com**
 
